@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-jatindera-mcpbasic-badge.png)](https://mseep.ai/app/mcp-mirror-jatindera-mcpbasic)
+
 # MCP (Model Context Protocol) Implementation
 
 ## Overview
